@@ -1,4 +1,4 @@
 git add .
-git commit -m '更新代码'
+git commit -m 'update'
 git push origin master -f
 git push gitee master -f
